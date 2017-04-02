@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FourTwoExercises\FourTwoExercises\bin\Debug\FourTwoExercises.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FourTwoExercises\FourTwoExercises\bin\Debug\FourTwoExercises.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FourTwoExercises\FourTwoExercises\bin\Debug\FourTwoExercises.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FourTwoExercises\FourTwoExercises\obj\Debug\FourTwoExercises.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FourTwoExercises\FourTwoExercises\obj\Debug\FourTwoExercises.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FourTwoExercises\FourTwoExercises\obj\Debug\FourTwoExercises.pdb
